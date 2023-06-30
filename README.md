@@ -20,12 +20,9 @@
 <p>Reasons: Quick and easy to deploy, Handy for sprints and version control specially when testing </p>
 
 <h2 style="text-align: center;">Extra works</h2>
-<p>I added "Edit/Delete/Update" buttons from my side which was not mentioned to do. I did the buttons just to make the app visually look good and fill the white-spaces in the form. 
-<em> Note: Functionality not implemented for the buttons. </em></p>
+<p>I added "Edit/Delete/Update" buttons from my side which was not mentioned to do. I did the buttons just to make the app visually look good and fill the white-spaces in the form. </p>
+<p><em>Note: Functionality not implemented for the buttons. </em></p>
 
 <h2 style="text-align: center;">Link</h2>
-
-
-
 <p><em>Link: <a href="ressol-techtest.pages.dev">ressol-techtest.pages.dev</a></em></p>
-<p>Please copy and paste the link to browser tab</p>
+<p><em>Note: Please copy and paste the link to browser tab</em></p>
