@@ -1,0 +1,53 @@
+.user-contacts {
+  padding: 20px;
+}
+
+.title {
+  text-align: center;
+}
+
+.table-responsive {
+  overflow-x: auto;
+}
+
+.contact-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.contact-table th,
+.contact-table td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.contact-table tbody tr:hover {
+  background-color: #f5f5f5;
+}
+
+.edit-button,
+.delete-button,
+.update-button {
+  padding: 5px 10px;
+  margin-right: 5px;
+  border: none;
+  border-radius: 5px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.edit-button {
+  background-color: #4caf50;
+  color: white;
+}
+
+.delete-button {
+  background-color: #f44336;
+  color: white;
+}
+
+.update-button {
+  background-color: #2196f3;
+  color: white;
+}
